@@ -1,0 +1,3 @@
+CREATE SCHEMA [wells]
+AUTHORIZATION [dbo]
+GO

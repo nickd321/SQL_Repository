@@ -1,0 +1,3 @@
+CREATE SCHEMA [corelab]
+AUTHORIZATION [dbo]
+GO

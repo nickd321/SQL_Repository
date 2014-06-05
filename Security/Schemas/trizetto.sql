@@ -1,0 +1,3 @@
+CREATE SCHEMA [trizetto]
+AUTHORIZATION [dbo]
+GO

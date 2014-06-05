@@ -1,0 +1,5 @@
+CREATE FUNCTION [dbo].[TRIM] (@Input [nvarchar] (4000))
+RETURNS [nvarchar] (4000)
+WITH EXECUTE AS CALLER
+EXTERNAL NAME [CLR_STANDARD].[UserDefinedFunctions].[TRIM]
+GO

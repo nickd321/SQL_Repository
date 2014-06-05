@@ -1,0 +1,3 @@
+CREATE SCHEMA [memorialcare]
+AUTHORIZATION [CORP\nickd]
+GO

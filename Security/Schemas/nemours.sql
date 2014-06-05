@@ -1,0 +1,3 @@
+CREATE SCHEMA [nemours]
+AUTHORIZATION [dbo]
+GO

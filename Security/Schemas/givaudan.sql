@@ -1,0 +1,3 @@
+CREATE SCHEMA [givaudan]
+AUTHORIZATION [dbo]
+GO

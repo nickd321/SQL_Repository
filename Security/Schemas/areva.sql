@@ -1,0 +1,3 @@
+CREATE SCHEMA [areva]
+AUTHORIZATION [dbo]
+GO

@@ -1,0 +1,3 @@
+CREATE SCHEMA [avmed]
+AUTHORIZATION [CORP\nickd]
+GO

@@ -1,0 +1,3 @@
+CREATE SCHEMA [optima]
+AUTHORIZATION [dbo]
+GO

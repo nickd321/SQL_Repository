@@ -1,0 +1,3 @@
+CREATE SCHEMA [racetrac]
+AUTHORIZATION [dbo]
+GO

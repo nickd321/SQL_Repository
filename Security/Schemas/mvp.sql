@@ -1,0 +1,3 @@
+CREATE SCHEMA [mvp]
+AUTHORIZATION [dbo]
+GO

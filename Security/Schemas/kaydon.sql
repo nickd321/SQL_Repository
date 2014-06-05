@@ -1,0 +1,3 @@
+CREATE SCHEMA [kaydon]
+AUTHORIZATION [dbo]
+GO

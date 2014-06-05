@@ -1,0 +1,3 @@
+CREATE SCHEMA [sequa]
+AUTHORIZATION [dbo]
+GO

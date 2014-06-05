@@ -1,0 +1,3 @@
+CREATE SCHEMA [harley]
+AUTHORIZATION [dbo]
+GO

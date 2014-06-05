@@ -1,0 +1,3 @@
+CREATE SCHEMA [haldex]
+AUTHORIZATION [CORP\nickd]
+GO
